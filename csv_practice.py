@@ -1,3 +1,10 @@
+# Reflection
+# 1. The huge advantage Python has over Excel is its ability to program large amounts of data at insane speeds.
+# It reads, cleans, and organizes with just simple code. Excel has its advantages in features such as: data viewing, chart making, quick calculations.
+# Python is incredible when doing a repetitive task. 
+# 2. Businesses could benefit from append mode through customer purchases. Each purchase is noted through new individual lines that don't delete older records.
+# It makes looking at the history of transactions so much easier.
+
 # Exercise 2
 import csv
 from datetime import datetime
